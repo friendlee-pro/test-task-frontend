@@ -1,6 +1,6 @@
 ## Тестовое задание на верстку для позиции frontend
 
-Необходимо сверстать упрощенную страницу из проекта, который был нами уже сделан https://front.friendlee.pro/mesto/. [Фигма](https://www.figma.com/file/jrUkTbvthSBY4UhPOPIlJi/Friendlee-Test-Task-Mesto?type=design&node-id=377%3A2243&t=L5nfOWiWOqNLTcHB-1).
+Необходимо сверстать упрощенную страницу из проекта, который был нами уже сделан https://front.friendlee.pro/mesto/. [Смотри упрощенную Фигму](https://www.figma.com/file/jrUkTbvthSBY4UhPOPIlJi/Friendlee-Test-Task-Mesto?type=design&node-id=377%3A2243&t=L5nfOWiWOqNLTcHB-1).
 Результатом должен являться git репозиторий(Github, Gitlab, Bitbucket...) удовлетворяющий следующим требованиям:
 
 - Реализация на next.js.
